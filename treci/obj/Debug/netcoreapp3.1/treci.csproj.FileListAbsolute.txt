@@ -1,0 +1,13 @@
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.exe
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.deps.json
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.runtimeconfig.json
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.runtimeconfig.dev.json
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.dll
+C:\Users\ilija\source\repos\ConsoleApp3\treci\bin\Debug\netcoreapp3.1\treci.pdb
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.csprojAssemblyReference.cache
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.csproj.CoreCompileInputs.cache
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.AssemblyInfoInputs.cache
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.AssemblyInfo.cs
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.dll
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.pdb
+C:\Users\ilija\source\repos\ConsoleApp3\treci\obj\Debug\netcoreapp3.1\treci.genruntimeconfig.cache
